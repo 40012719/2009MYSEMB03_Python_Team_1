@@ -10,4 +10,4 @@
 | TC_8 | Check the audio file is launched and sent to the server | Server running in the background | Audio file sent from the client | Displaying the text on the server	| Displaying the text on the server |
 | TC_9 | Check if the text is displayed on the server |	Successfully launched the audio file from the client |	Audio file from the client  |	Text output for the audio input | Text output for the audio input |
 | TC_10 | Check the text displayed is written to a text file | Opened the text file to write | Text displayed on the server | Text written to the text file | Text written to the text file |
-| TC_11	| No audio file launched at the client 	Server running	| Client program launched without the audio file | No output to display the text | Shall not write the text to the file (text file empty) |
+| TC_11	| No audio file launched at the client |	Server running	| Client program launched without the audio file | No output to display the text | Shall not write the text to the file (text file empty) |
