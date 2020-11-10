@@ -22,6 +22,6 @@ recordfile.write(text);
 recordfile.close();
 readByte = open(r"Implementation/Output/recordtext.txt","rb");
 data=readByte.read();
-readByte.close()
+readByte.close();
 client_socket.send(data);
 client_socket.close();
