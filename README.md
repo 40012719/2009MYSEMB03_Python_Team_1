@@ -1,7 +1,4 @@
 # 2009MYSEMB03_Python_Team_1
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d0e87154f8ec4d0d97a50ad62e3dc0f3)](https://app.codacy.com/gh/99002477/2009MYSEMB03_Python_Team_1?utm_source=github.com&utm_medium=referral&utm_content=99002477/2009MYSEMB03_Python_Team_1&utm_campaign=Badge_Grade)
-
 # Python Mini Project
 **Network Programming**
 
