@@ -9,6 +9,5 @@ print("Waiting for Connection...");
 connection, addr = server_socket.accept();
 data=connection.recv(1024);
 data = data.decode();
-
 print("Message is : \n",data);
 server_socket.close();
