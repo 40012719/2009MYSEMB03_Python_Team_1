@@ -20,4 +20,4 @@ jobs:
       with:
         python-version: 3.8
     - name: Build
-      run: python3 Implementation/src/server.py|Implementation/src/client.py
+      run: python3 Implementation/src/client.py
